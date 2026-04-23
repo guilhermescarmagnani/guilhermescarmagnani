@@ -12,8 +12,8 @@
 
 <p align="left">
   ✨ Creating bugs since 2019
-  <br>📚 I'm currently learning Golang
-  <br>🎯 Goals: Become a Javascript Expert
+  <br>📚 I'm currently learning .NET C#
+  <br>🎯 Goals: Become a Senior Software Engineer
   <br>🎲 Fun fact: I hated coffee until I became a dev
 </p>
 
